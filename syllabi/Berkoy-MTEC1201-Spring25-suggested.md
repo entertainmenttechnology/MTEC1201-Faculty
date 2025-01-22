@@ -240,7 +240,10 @@ TECHNIQUE
 **SESSION 13: [date]**    
 TOPIC             
 * Playtesting and Work-in-Progress Critiques for Final Projects  
-* Special Topics TBD / Review
+* Hosting p5.js Projects Online
+
+TECHNIQUE
+* Deploy a website using GitHub repository 
    
           
 **SESSION 14: [date]**    
